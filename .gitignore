@@ -1,1 +1,4 @@
 /dlenv
+.DSTORE
+.ipynb_checkpoints
+.gitignore
