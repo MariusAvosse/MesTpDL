@@ -1,4 +1,5 @@
 /dlenv
+/livres
 .DSTORE
 .ipynb_checkpoints
 .gitignore
