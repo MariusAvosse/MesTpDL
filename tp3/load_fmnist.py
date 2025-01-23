@@ -2,7 +2,7 @@ import numpy as np
 import gzip
 import os
 
-DATA_DIR = "./datasets/fashion-mnist"
+DATA_DIR = "/Users/mariusavosse/Documents/M2_Paris_Cité/S2/DeepLearing/tp2/fashion"
 TRAIN_IMAGES_FILE = os.path.join(DATA_DIR, "train-images-idx3-ubyte.gz")
 TRAIN_LABELS_FILE = os.path.join(DATA_DIR, "train-labels-idx1-ubyte.gz")
 TEST_IMAGES_FILE = os.path.join(DATA_DIR, "t10k-images-idx3-ubyte.gz")
